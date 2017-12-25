@@ -1,0 +1,12 @@
+--2016/5/19--
+>>Query service completed.
+>>Login frame added.
+>>2 new features: update log & basics.(See in Menu)
+***************
+--2016/5/20--
+>>Insertion service completed.
+***************
+--2016/5/21--
+>>Modification, deletion service completed.
+>>New feature: user manual.(See in Menu)
+>>v1.0 completed.
