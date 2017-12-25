@@ -3,4 +3,4 @@
 # Instructions
 Please go through *manual.txt* and *log.txt* for details. To launch the app, use *OP.jar*.
 
-![demo]('./demo.png')
+![demo](./demo.png)
